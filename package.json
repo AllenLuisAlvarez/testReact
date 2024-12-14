@@ -1,7 +1,7 @@
 {
   "name": "testreact",
   "version": "0.1.0",
-  "homepage": "/build",
+  "homepage": "/build/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^16.1.0",
